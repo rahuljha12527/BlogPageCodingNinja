@@ -1,8 +1,31 @@
 #blog-title{
     font-size: 40px;
+    color: darkslategrey;
 }
 
 p{
     color: dimgray;
 }
 
+h4{
+    text-transform: uppercase;
+    font-family: monospace;
+}
+
+#always{
+    color: grey;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+a{
+    font-size: 28px;
+    color: black;
+
+}
+
+a:hover{
+    color: orange;
+}
