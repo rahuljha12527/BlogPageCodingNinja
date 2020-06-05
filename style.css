@@ -29,3 +29,17 @@ a{
 a:hover{
     color: orange;
 }
+img{
+    width: 100%;
+}
+#logo img{
+    width: 210px;
+}
+
+#blog-content{
+    width: 90%;
+}
+
+#site-title{
+    font-size: 1.8rem;
+}
